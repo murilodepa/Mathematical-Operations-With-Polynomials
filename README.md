@@ -24,6 +24,7 @@
 * #include <stdio.h>    //"Cabeçalho Padrão de (Entrada/Saída)"
 * #include <stdlib.h>   //"Cabeçalho da Biblioteca de Propósito Geral Padrão"
 * #include <windows.h>  //"Utilizada Para Usar a Função "Sleep","Dormir" por Alguns Milissegundos e Muda de Cor"
+* #ListaLigada.h //Anexada neste repositório
 
    * **Observação:** Para desenvolver este projeto, precisa apenas de conhecimentos básicos sobre lógica de programação e linguagem de programação C.
 
