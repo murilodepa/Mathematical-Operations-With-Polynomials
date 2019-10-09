@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1570586875 source:c:\users\muril\desktop\projeto_polinomios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"ListaLigada.h"
+
+1554135950 c:\users\muril\desktop\projeto_polinomios\listaligada.h
+
