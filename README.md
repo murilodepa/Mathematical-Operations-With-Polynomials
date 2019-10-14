@@ -1,4 +1,4 @@
-# Projeto de Polinômios com Lista Ligada
+# Operações Matemáticas com Polinômios
 
 ## Projeto envolvendo polinômios, com o intuito de aprimorar os conhecimentos com lista ligada em C.
 
